@@ -1,0 +1,27 @@
+/* Sidebar container */
+.sidebarelem{
+    display: flex;
+    flex-direction: column;
+    background-color: #333; /* Sidebar background color */
+    padding: 20px;
+    width:100%;
+    /* justify-content: space-between; */
+    align-content: space-between;
+  }
+  
+  /* Sidebar option styling */
+  div > div {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  /* Active option styling */
+  .nonactive {
+    color: #fff; /* Default text color */
+  }
+  
+  .active {
+    color: #ff0000; /* Text color for the active option */
+    font-weight: bold; /* Optional: Make the text bold for the active option */
+  }
+  

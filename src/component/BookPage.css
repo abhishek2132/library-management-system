@@ -1,0 +1,29 @@
+/* BookPage.css (create a separate CSS file) */
+.entirebook {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .entirebook > div {
+    flex: 1;
+    max-width: 300px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+/* Book.css (create a separate CSS file) */
+.bookcontainer {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bookcontainer > div {
+    margin-bottom: 10px;
+  }
+    

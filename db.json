@@ -1,0 +1,194 @@
+{
+  "allocatedone": [
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Coming-of-Age",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest@gmail.com"
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Epic Fantasy",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest@gmail.com"
+    },
+    {
+      "title": "harry",
+      "description": "harry",
+      "genre": "fication",
+      "author": "harry",
+      "stock": 10,
+      "id": 11,
+      "email": "iamtest@gmail.com"
+    },
+    {
+      "id": 8,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest@gmail.com"
+    },
+    {
+      "title": "b",
+      "description": "b",
+      "genre": "fiction",
+      "author": "b",
+      "stock": 10,
+      "id": 14,
+      "email": "iamtest@gmail.com"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest1@gmail.com"
+    },
+    {
+      "id": 3,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest1@gmail.com"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest1@gmail.com"
+    },
+    {
+      "id": 9,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "description": "description",
+      "stock": 2,
+      "email": "iamtest1@gmail.com"
+    }
+  ],
+  "adminallocate": [],
+  "users": [
+    {
+      "id": 1,
+      "email": "iamtest@gmail.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "name": "DEEPAK KUMAR GUPTA ",
+      "password": "1234",
+      "email": "iamtest1@gmail.com",
+      "id": 2,
+      "role": "user"
+    }
+  ],
+  "books": [
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 3,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 5,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Coming-of-Age",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 7,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 9,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Epic Fantasy",
+      "description": "description",
+      "stock": 2
+    },
+    {
+      "title": "harry",
+      "description": "harry",
+      "genre": "fication",
+      "author": "harry",
+      "stock": 10,
+      "id": 11
+    },
+    {
+      "title": "Must read",
+      "description": "must read",
+      "genre": "fication",
+      "author": "must read",
+      "stock": 5,
+      "id": 13
+    },
+    {
+      "title": "b",
+      "description": "b",
+      "genre": "fiction",
+      "author": "b",
+      "stock": 10,
+      "id": 14
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
